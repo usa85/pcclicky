@@ -1,4 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Wine Game
+
+Gist:
+Implemented with React.JS, application utilizes the UI, and communicate with users managing components.
+
+Description and game access: [Wine Game](https://usa85.github.io/pcclicky/)
+
+This game test user's memory.  12 cards representing wine jokes are randomly displayed on the screen.  Player has the opportunity to test every wine once incrementing the wine score by one point as long as a particular card is selected only once.   As soon as the card is selected twice the game is over.
+
+
+
+**Frameworks**
+* Bootstrap
+
+## Developer's Notes: ##
+
+Application was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
