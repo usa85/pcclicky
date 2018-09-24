@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wine R",
+    "image": "./assets/images/WineR.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Wine X",
+    "image": "./assets/images/WineX.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Wine Z",
+    "image": "./assets/images/WineZ.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Wine L",
+    "image": "./assets/images/WineL.png"
+  },
+  {
+    "id": 5,
+    "name": "Wine K",
+    "image": "./assets/images/WineK.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Wine E",
+    "image": "./assets/images/WineE.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Wine F",
+    "image": "./assets/images/WineF.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Wine I",
+    "image": "./assets/images/WineI.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Wine T",
+    "image": "./assets/images/WineT.png"
+  },
+  {
+    "id": 10,
+    "name": "Wine Y",
+    "image": "./assets/images/WineY.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Wine X",
+    "image": "./assets/images/WineX.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Wine M",
+    "image": "./assets/images/WineM.jpeg"
+  }
+]
